@@ -1,0 +1,83 @@
+/* TD1 - TD4 : styles simples pour le site Chuck Norris */
+@font-face {
+  font-family: Roughney;
+  src: url("Roughney-PersonalUse.otf");
+}
+body {
+  width: 900px;
+  max-width: 95%;
+  margin: 0 auto;
+  background-color: #B1ADA9;
+  color: #333B40;
+  font-family: Arial, sans-serif;
+  line-height: 150%;
+}
+header {
+  background-color: #F3F0EC;
+  padding: 15px;
+  min-height: 130px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+.citation { width: 42%; font-size: 13px; font-style: italic; }
+nav {
+  width: 55%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+nav > div { position: relative; }
+nav a {
+  display: block;
+  padding: 10px;
+  color: #333B40;
+  text-decoration: none;
+  border-left: 2px solid #65766F;
+}
+nav > div:first-child > a { border-left: none; }
+nav a:hover { background-color: #D8D1C9; }
+.submenu {
+  display: none;
+  position: absolute;
+  top: 50px;
+  left: 0;
+  background-color: #D8D1C9;
+  min-width: 120px;
+  z-index: 2;
+}
+nav > div:hover > .submenu { display: block; }
+.submenu a { border: none; }
+.puce { visibility: hidden; color: #65766F; }
+.submenu div:hover .puce { visibility: visible; }
+main { display: flex; margin-top: 15px; align-items: flex-start; }
+article { width: 60%; background-color: #F3F0EC; padding: 10px; box-sizing: border-box; }
+aside { width: 35%; margin-left: 5%; background-color: #F3F0EC; padding: 10px; box-sizing: border-box; }
+h2, h3 { text-align: center; padding: 10px 5px; font-family: Roughney, Arial, sans-serif; }
+.pair { background-color: #65766F; color: white; }
+.impair { background-color: #D8D1C9; color: #333B40; }
+p { text-indent: 5px; line-height: 150%; }
+.skill { color: #65766F; font-style: italic; }
+#youngChuck { float: left; height: 150px; margin: 5px 12px 5px 0; }
+.beware1 { float: right; height: 300px; margin: 5px 0 10px 12px; }
+a { color: #405C53; }
+a:hover { color: #253D36; text-decoration: underline; }
+.table-scroll { display: block; overflow-x: auto; }
+table { border-spacing: 0; white-space: nowrap; }
+th, td { padding: 8px; text-align: center; border-bottom: 1px solid #B1ADA9; }
+thead th { background-color: #65766F; color: white; }
+thead .skill { color: white; }
+tbody tr:nth-child(odd) td { background-color: #F3F0EC; }
+tbody tr:nth-child(even) td { background-color: #D8D1C9; }
+tr > th:first-child, tr > td:first-child {
+  position: sticky;
+  left: 0;
+  border-right: 2px solid #65766F;
+}
+footer { background-color: #F3F0EC; text-align: center; margin-top: 15px; padding: 12px; }
+.facebook, .X { position: fixed; right: 15px; width: 28px; }
+.facebook { bottom: 48px; }
+.X { bottom: 12px; }
+address { margin: 20px; }
+article img:not(#youngChuck):not(.beware1) { max-width: 100%; }

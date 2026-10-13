@@ -1,0 +1,132 @@
+<!--position the doctype and html tags here -->
+
+  <!-- Open the head tag here -->
+
+    <!-- Add a title to the document here -->
+
+  <!-- Close the head tag here -->
+
+<!-- open the body tag here -->
+
+
+	<!-- use blockquote here -->
+	
+		"Little John: Braddock! I'm warning you, watch where you step!"
+		 Braddock: "I put my feet wherever I want, Little John... and it's often right in your face."
+		
+		Chuck Norris, Missing in Action 3 (1988), written by Arthur Silver, Larry Levinson, James Bruner, Chuck Norris, Steve Bing
+	
+
+	<!--section -->
+	Biography (From Wikipedia)
+
+
+<!--subsection -->
+	Childhood
+
+	<!--Chuck Young's image should be positioned here -->
+
+
+	<!--start of paragraph -->
+	Carlos Ray Norris, better known as Chuck Norris, is an American actor born on March 10, 1940, in Ryan, Oklahoma. A martial arts expert, he primarily focused on action films. A native of Ryan, Oklahoma, Carlos Ray Norris
+		He has two younger brothers, one of whom is the Hollywood producer Aaron Norris. His parents are of Native American (Cherokee) and Irish descent. His parents divorced when he was 16, and he moved to California with his mother and brothers. It was there
+		that he finishes his studies at high school and quickly marries his girlfriend, Diane Holechek.
+		<!--end paragraph -->
+
+	<!--subsection -->
+	 The army
+
+<!--start of paragraph -->
+	
+		After his marriage, he joined the US Air Force and was sent to Osan Air Force Base in South Korea for his military service. It was there that he acquired the nickname Chuck and began learning Tangsudo. He then returned to the United States.
+		at March Air Force Base in California. He completed his military service in August 1962 without having participated in any combat other than base training.
+<!--end paragraph -->
+	
+
+<!--subsection -->
+	Combat sports
+
+
+	<!--start of paragraph -->
+	 Upon his return, he worked for Northrop Grumman and opened a karate school frequented by many celebrities, including Steve McQueen. His son Mike was born in 1963, followed by his daughter Dina in 1964 and a second son, Eric, in 1965.
+	
+	Chuck's track record is impressive:
+	<!--end paragraph -->
+
+				<!--list -->
+
+				He holds a black belt in Tangsudo and Taekwondo.
+		
+				He is the founder of Chun Kuk Do (The Universal Way).
+		
+				He also practiced Karate (7-time world middleweight champion from 1968 to 1974)
+		
+				He also did Judo and Ju-jitsu
+	
+		
+<!--subsection -->
+Cinema
+		<!--start of paragraph -->
+			The year 1964 marked a turning point in Chuck Norris's life when he met Bruce
+
+			<!--Chuck Beware's image here -->
+			
+
+			Lee. Despite a public display of friendship between the two men, it seems their relationship was sometimes tumultuous. In 1968, Norris became Karate champion in the middleweight category, and in 1969, he won the triple crown in Karate.
+			for the record number of tournaments won in a single year, and the title of Fighter of the Year from Black Belt Magazine. He made his film debut in 1968 in The Wrecking Crew. In 1970, his younger brother Weiland died in Vietnam; Chuck dedicated a film to him.
+			later his film Missing in Action. In 1972, he starred alongside Bruce Lee in
+			<!-- external link to "http://www.imdb.com/title/tt0068935/" labeled "The Way of the Dragon". -->
+			and in 1974, McQueen encouraged him to take acting classes at the MGM Studio, under the tutelage of
+			Jonathan Harris. He then went on to a string of successes with film series such as Invasion USA, Missing in Action, and Delta Force. After thirty years of marriage, Norris and Holechek divorced. In 1990, Norris founded the Kick Drugs Out of America association.
+			Renowned since Kick Start. But by the end of the 1980s, Norris was no longer filling theaters as much, and his main producer, Cannon Group, which had produced his films, was bought by MGM after its bankruptcy. He then turned to television.
+			by launching into the series Walker, Texas Ranger in 1993. This series is a success: it has nine seasons and continues to be broadcast on numerous channels around the world.
+			<!--end paragraph -->
+
+<!--subsection -->
+		Over the last twenty years
+		<!--start of paragraph -->
+		In 1994, at Survivor Series (a WWE pay-per-view), he refereed a Special Guest Referee Casket Match between The Undertaker and Yokozuna. In 1997, he earned his 8th dan (degree) in Taekwondo, which has 10 degrees.
+		<!-- emphasize this sentence -->
+		This distinction elevates him to the rank of Grand
+			Master. He is one of the first Westerners to whom it was awarded.
+
+
+			He remarried in 1998 to former model Gena O'Kelley, who gave birth to twins in 2002: Dakota Alan Norris, a boy, and Danilee Kelly Norris, a girl.
+		<!--end paragraph -->
+
+
+<!--section -->
+		Partner sites
+		<!--list -->
+
+			<!-- external link labeled by "chucknorrisfacts". -->
+		 	http://www.chucknorrisfacts.fr
+		 	<!-- external link labeled by "mulletjunky" -->
+		 	http://www.mulletjunky.com/picfix3.htm
+		 	<!-- external link labeled by "stevenseagal.com" -->
+		 	http://stevenseagal.com
+		
+
+<!--section -->
+		The Top 10 latest facts
+		
+		<!--numbered list -->
+			Chuck Norris's calendar changes from March 31st to April 2nd. Nobody plays jokes on Chuck.
+			When Chuck Norris has his blood drawn, he refuses the syringe and asks for a shotgun and a basin.
+			Aliens exist: they're just waiting for Chuck Norris to die before attacking.
+			Chuck Norris can clap with one hand.
+			Chuck Norris isn't sleeping. He's waiting.
+			Chuck Norris's semen contains only one sperm: the one that killed all the others.
+			Even those with amnesia still remember Chuck Norris.
+			Some people wear Superman pajamas. Superman wears Chuck Norris pajamas.
+			Chuck Norris frequently donates blood to the Red Cross. But never his own.
+			Chuck Norris and Superman had an arm wrestling match; the loser had to put his underwear over his pants.
+	
+
+
+<!-- internal link that allows you to return to the top of the page by clicking, with anchors and the label "Back to top" -->
+ Back to the beginning
+		
+
+<!-- close the body and html tags here -->
+
